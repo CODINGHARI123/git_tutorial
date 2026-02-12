@@ -1,0 +1,15 @@
+[33mtag v1.0[m
+Tagger: Swathi <swathishivarajkumar24@gmail.com>
+Date:   Thu Feb 12 12:23:31 2026 +0530
+
+First version
+
+[33mcommit c8f235e921d82f4212a3860534c421bc1aa4ef95[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mv1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Swathi <swathishivarajkumar24@gmail.com>
+Date:   Thu Feb 5 11:14:27 2026 +0530
+
+    SWATHI
+
+[1mdiff --git a/SWATHI b/SWATHI[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
